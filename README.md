@@ -1,2 +1,2 @@
 # Maths Game
-<p>a multiplication game where you have to select the correct option</p>
+<p>a very simple multiplication game</p>
